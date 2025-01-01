@@ -119,7 +119,7 @@ const parashaData = [
 //const TehilimPage = new URL('http://www.sephardichazzanut.com/Tehillim.htm');
 //const rootTanakhIndex = new URL('http://www.sephardichazzanut.com/Tanach.htm');
 
-const config = parseArgs(Deno.args, { default: { scrapemode: 'parasha', full: true }})
+const config = parseArgs(Deno.args, { default: { scrapemode: 'parasha', splitandmerge: true }})
 switch (config.scrapemode) {
 	case 'parasha': {
 		let mp3Files = L.list<ParashaClass>();
@@ -159,6 +159,11 @@ switch (config.scrapemode) {
 					})) },
 				})
 			}
+		}
+
+		if (config.splitandmerge) {
+			writeJson('./data/sephardicHazzanut.json', mp3Files.toJSON());
+			mp3Files = L.list<ParashaClass>();
 		}
 
 		console.log('PARASHA PART 2: Pentaneuch')
@@ -238,6 +243,11 @@ switch (config.scrapemode) {
 		const functionsForPentateuch = parashaRows.map(parashaRow => pentateuchParashaExtractor(parashaRow));
 		await Promise.all(functionsForPentateuch);
 
+		if (config.splitandmerge) {
+			writeJson('./data/pizmonimRecordings.json', mp3Files.toJSON());
+			mp3Files = L.list<ParashaClass>();
+		}
+
 		console.log('PARASHA PART 3: Parasha Info')
 		const infoPageIndex = await URLDom(new URL("https://pizmonim.com/weekly.php"));
 		const indParashaPages = await Promise.all(
@@ -302,7 +312,12 @@ switch (config.scrapemode) {
 			}
 		}
 
-		console.log("Parasha Part 4 - LearnTefilah");
+		if (config.splitandmerge) {
+			writeJson('./data/pizmonimLongDescription.json', mp3Files.toJSON());
+			mp3Files = L.list<ParashaClass>();
+		}
+
+		console.log("Parasha Part 4 - LearnTefillah");
 		const tefilahDocumentBasis = await URLDom(new URL('https://www.learntefillah.com/parasha/noach/weekdays/'));
 		const learnTefilahList = extractLearnTefilahDropdown(tefilahDocumentBasis, "sbxCapitulos");
 
@@ -357,6 +372,11 @@ switch (config.scrapemode) {
 		const learnTefilahFunctions = Array.from(Object.entries(learnTefilahList))
 			.map(([link, parasha]) => learnTefilahParashaExtractor(link, parasha));
 		await Promise.all(learnTefilahFunctions);
+
+		if (config.splitandmerge) {
+			writeJson('./data/learntefillah.json', mp3Files.toJSON());
+			mp3Files = L.list<ParashaClass>();
+		}
 
 		console.log('PARASHA PART 5: ITALIAN')
 		const italianText = (await fixEncodeFetch(new URL('http://www.archivio-torah.it/audio/indiciaudio/indiceparashot.htm')))
@@ -427,27 +447,48 @@ switch (config.scrapemode) {
 			if (["Tazria", "Mezorà"].includes(cleanupText(italianParasha[0] as string)))
 				bookTitle = "ויקרא";
 
-			const mp3Section = L.filter(
-				mp3Obj => mp3Obj.sourceBook && bookTitle in mp3Obj.sourceBook && mp3Obj.sourceBook[bookTitle].startsWith(bookSection!.replace(';', ':')),
-				mp3Files
-			)
-
-			if (!mp3Section.length) {
-				console.log("Couldn't find Italian Parasha", bookTitle, bookSection, italianParasha[0])
-				continue;
-			} else if (mp3Section.length > 1) {
-				console.log('More than 1 name for Italian Parasha', italianParasha[0], mp3Section.toJSON())
-				throw Error("More than 1 name for Italian Parasha")
+			if (!config.splitandmerge) {
+				const mp3Section = L.filter(
+					mp3Obj => mp3Obj.sourceBook && bookTitle in mp3Obj.sourceBook && mp3Obj.sourceBook[bookTitle].startsWith(bookSection!.replace(';', ':')),
+					mp3Files
+				)
+	
+				if (!mp3Section.length) {
+					console.log("Couldn't find Italian Parasha", bookTitle, bookSection, italianParasha[0])
+					continue;
+				} else if (mp3Section.length > 1) {
+					console.log('More than 1 name for Italian Parasha', italianParasha[0], mp3Section.toJSON())
+					throw Error("More than 1 name for Italian Parasha")
+				}
+	
+				const entry = L.toArray(mp3Section)[0];
+				console.log(entry.title.english, cleanupText(italianParasha[0] as string), entry.sourceBook, bookTitle, bookSection)
+				entry.addEnglishTitle(L.list(italianParasha[0] as string))
+				entry.addRecording({
+					author: (italianParasha[italianParasha.length - 3] as string),
+					part: "הכל",
+					url: new URL(italianParasha[italianParasha.length - 1] as string)
+				})
+			} else {
+				mp3Files = mergeArrayOptions(mp3Files, {
+					title: {
+						hebrew: L.list(),
+						english: L.list(italianParasha[0] as string)
+					},
+					sourceBook: {[bookTitle]: bookSection} as Record<ParashaBooks, string>,
+					recordings: {
+						[cleanupText(italianParasha[italianParasha.length - 3] as string)]: [{
+							part: "הכל",
+							url: new URL(italianParasha[italianParasha.length - 1] as string)
+						}]
+					}
+				})
 			}
+		}
 
-			const entry = L.toArray(mp3Section)[0];
-			console.log(entry.title.english, cleanupText(italianParasha[0] as string), entry.sourceBook, bookTitle, bookSection)
-			entry.addEnglishTitle(L.list(cleanupText(italianParasha[0] as string)))
-			entry.addRecording({
-				author: (italianParasha[italianParasha.length - 3] as string),
-				part: "הכל",
-				url: new URL(italianParasha[italianParasha.length - 1] as string)
-			})
+		if (config.splitandmerge) {
+			writeJson('./data/italian.json', mp3Files.toJSON());
+			mp3Files = L.list<ParashaClass>();
 		}
 
 		/* console.log('PARASHA PART 6: Eastern Ashkenaz')
@@ -493,35 +534,62 @@ switch (config.scrapemode) {
 				.filter(row => !row.querySelector('th'))
 
 			for (const parashaMakam of makamPerParasha) {
-				const indexFinderList = L.filter(
-					mp3Obj => mp3Obj.includesTitle('english', cleanupText(parashaMakam.cells[0].innerHTML)
-						.replace("Va'era", "Vaera")
-						.replace("Miqes Hanukkah", "Miqes")
-						.replace("Ahare", "Aharei")
-						.replace("Behalot.", "Behaalotecha")
-						.replace("Ekha", "Devarim")
-						.replace("Nahamu", "Vaethanan")
-						.replace("Vayelekh (Shuba)", "Vayelekh")
-						.replace("Ha'azinu", "HaAzinu")
-						// Lowercase for VeZot Haberakhah
-					),
-					mp3Files
-				)
-
-				if (!indexFinderList.length) {
-					console.log('No English name entry for Parashath ' + parashaMakam.cells[0].innerHTML)
-					continue;
-				} else if (indexFinderList.length > 1) {
-					console.error('More than 1 name for Parasha Makam Table', parashaMakam.cells[0].innerHTML, indexFinderList.toJSON())
-					continue;
-					//throw Error("More than 1 name for Parasha Makam Table")
-				}
-
-				for (let index = 1; index < parashaMakam.cells.length; index++) {
-					L.toArray(indexFinderList)[0].makamTable![cleanupText(parashaBookMakam.rows[0].cells[index].innerHTML)]
-						= cleanupText(parashaMakam.cells[index].innerHTML)
+				if (!config.splitandmerge) {
+					const indexFinderList = L.filter(
+						mp3Obj => mp3Obj.includesTitle('english', cleanupText(parashaMakam.cells[0].innerHTML)
+							.replace("Va'era", "Vaera")
+							.replace("Miqes Hanukkah", "Miqes")
+							.replace("Ahare", "Aharei")
+							.replace("Behalot.", "Behaalotecha")
+							.replace("Ekha", "Devarim")
+							.replace("Nahamu", "Vaethanan")
+							.replace("Vayelekh (Shuba)", "Vayelekh")
+							.replace("Ha'azinu", "HaAzinu")
+							// Lowercase for VeZot Haberakhah
+						),
+						mp3Files
+					)
+	
+					if (!indexFinderList.length) {
+						console.log('No English name entry for Parashath ' + parashaMakam.cells[0].innerHTML)
+						continue;
+					} else if (indexFinderList.length > 1) {
+						console.error('More than 1 name for Parasha Makam Table', parashaMakam.cells[0].innerHTML, indexFinderList.toJSON())
+						continue;
+						//throw Error("More than 1 name for Parasha Makam Table")
+					}
+	
+					for (let index = 1; index < parashaMakam.cells.length; index++) {
+						L.toArray(indexFinderList)[0].makamTable![cleanupText(parashaBookMakam.rows[0].cells[index].innerHTML)]
+							= cleanupText(parashaMakam.cells[index].innerHTML)
+					}
+				} else {
+					mp3Files = mergeArrayOptions(mp3Files, {
+						title: {
+							hebrew: L.list(),
+							english: L.list(cleanupText(parashaMakam.cells[0].innerHTML)
+								.replace("Va'era", "Vaera")
+								.replace("Miqes Hanukkah", "Miqes")
+								.replace("Ahare", "Aharei")
+								.replace("Behalot.", "Behaalotecha")
+								.replace("Ekha", "Devarim")
+								.replace("Nahamu", "Vaethanan")
+								.replace("Vayelekh (Shuba)", "Vayelekh")
+								.replace("Ha'azinu", "HaAzinu")
+								// Lowercase for VeZot Haberakhah
+							)
+						},
+						makamTable: Object.fromEntries(Array.from(parashaMakam.cells)
+							.slice(1)
+							.map((cell, index) => [cleanupText(parashaBookMakam.rows[0].cells[index + 1].innerHTML), cleanupText(cell.innerHTML)]))
+					})
 				}
 			}
+		}
+
+		if (config.splitandmerge) {
+			writeJson('./data/makamTable.json', mp3Files.toJSON());
+			mp3Files = L.list<ParashaClass>();
 		}
 
 		/*

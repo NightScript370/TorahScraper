@@ -1,0 +1,1457 @@
+[
+	{
+		"title": {
+			"english": [
+				"Vayera"
+			],
+			"hebrew": [
+				"וירא"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Vayera%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"בראשית": "18:1-22:24"
+		},
+		"topics": [
+			"The Trials of Abraham continued."
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Haye Sarah"
+			],
+			"hebrew": [
+				"חיי שרה"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Haye%20Sarah%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"בראשית": "23:1-25:18"
+		},
+		"topics": [
+			"Continuity from Abraham to Isaac."
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Noah"
+			],
+			"hebrew": [
+				"נח"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Noah%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"בראשית": "6:9-11:32"
+		},
+		"topics": [
+			"From Noah until Abraham."
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Lekh Lekha"
+			],
+			"hebrew": [
+				"לך לך"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Lekh%20Lekha%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"בראשית": "12:1-17:27"
+		},
+		"topics": [
+			"The Trials of Abraham."
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Toledot"
+			],
+			"hebrew": [
+				"תולדות"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Toledot%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"בראשית": "25:19-28:9"
+		},
+		"topics": [
+			"From Isaac to Jacob."
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Vayesse"
+			],
+			"hebrew": [
+				"ויצא"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Vayesse%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"בראשית": "28:10-32:3"
+		},
+		"topics": [
+			"Israel's exile in the Land of Aram."
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Miqes"
+			],
+			"hebrew": [
+				"מקץ"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Miqes%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"בראשית": "41:1-44:17"
+		},
+		"topics": [
+			"The Rise of Joseph."
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Vayishlah"
+			],
+			"hebrew": [
+				"וישלח"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Vayishlah%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"בראשית": "32:4-36:43"
+		},
+		"topics": [
+			"Israel's Return to Canaan."
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Vayehi"
+			],
+			"hebrew": [
+				"ויחי"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Vayehi%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"בראשית": "47:28-50:26"
+		},
+		"topics": [
+			"The Blessings and Fates of the Tribes."
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Yitro"
+			],
+			"hebrew": [
+				"יתרו"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Yitro%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"שמות": "18:1-20:23"
+		},
+		"topics": [
+			"The Law."
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Vaera"
+			],
+			"hebrew": [
+				"וארא"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Vaera%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"שמות": "6:2-9:35"
+		},
+		"topics": [
+			"Plagues."
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Bo"
+			],
+			"hebrew": [
+				"בא"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Bo%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"שמות": "10:1-13:16"
+		},
+		"topics": [
+			"Deliverance."
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Shemot"
+			],
+			"hebrew": [
+				"שמות"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Shemot%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"שמות": "1:1-6:1"
+		},
+		"topics": [
+			"Bondage."
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Mishpatim"
+			],
+			"hebrew": [
+				"משפטים"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Mishpatim%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"שמות": "21:1-24:18"
+		},
+		"topics": [
+			"Chapters 21-23 is referred to as the Covenant Code. Chapter 24 discusses the receiving of the Torah commandments."
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Tessave"
+			],
+			"hebrew": [
+				"תצוה"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Tessave%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"שמות": "27:20-30:10"
+		},
+		"topics": [
+			"Garments of the Priesthood."
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Ki Tissa"
+			],
+			"hebrew": [
+				"כי תשא"
+			]
+		},
+		"recordings": {
+			"Abe Zami - Ki Tisa": [
+				{
+					"url": "https://pizmonim.com/MP3/Ki%20Tisa%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"שמות": "30:11-34:35"
+		},
+		"topics": [
+			null
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Terumah"
+			],
+			"hebrew": [
+				"תרומה"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Terumah%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"שמות": "25:1-27:19"
+		},
+		"topics": [
+			"The Tabernacle Instruction."
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Emor"
+			],
+			"hebrew": [
+				"אמור"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Emor%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"ויקרא": "21:1-24:23"
+		},
+		"topics": [
+			null
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Vayaqhel"
+			],
+			"hebrew": [
+				"ויקהל"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Vayaqhel%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"שמות": "35:1-38:20"
+		},
+		"topics": [
+			"Execution of the Tabernacle instruction."
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Huqat"
+			],
+			"hebrew": [
+				"חוקת"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Huqat%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"במדבר": "19:1-22:1"
+		},
+		"topics": [
+			null
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Beshalah"
+			],
+			"hebrew": [
+				"בשלח"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Beshalah%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"שמות": "13:17-17:16"
+		},
+		"topics": [
+			"Trials in the Desert."
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Naso"
+			],
+			"hebrew": [
+				"נשא"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Naso%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"במדבר": "4:21-7:89"
+		},
+		"topics": [
+			null
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Sav"
+			],
+			"hebrew": [
+				"צו"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Sav%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"ויקרא": "6:1-8:36"
+		},
+		"topics": [
+			null
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Ahare Mot"
+			],
+			"hebrew": [
+				"אחרי מות"
+			]
+		},
+		"recordings": {
+			"Abe Zami - Ahare": [
+				{
+					"url": "https://pizmonim.com/MP3/Ahare%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"ויקרא": "16:1-18:30"
+		},
+		"topics": [
+			null
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Debarim"
+			],
+			"hebrew": [
+				"דברים"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Debarim%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"דברים": "1:1-3:22"
+		},
+		"topics": [
+			"Moses' Introduction."
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Tazria"
+			],
+			"hebrew": [
+				"תזריע"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Tazria%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"ויקרא": "12:1-13:59"
+		},
+		"topics": [
+			null
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Vayiqra"
+			],
+			"hebrew": [
+				"ויקרא"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Vayiqra%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"ויקרא": "1:1-5:26"
+		},
+		"topics": [
+			"Priestly Codes."
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Bemidbar"
+			],
+			"hebrew": [
+				"במדבר"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Bemidbar%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"במדבר": "1:1-4:20"
+		},
+		"topics": [
+			"\"In the wilderness.\""
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Qorah"
+			],
+			"hebrew": [
+				"קורח"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Qorah%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"במדבר": "16:1-18:32"
+		},
+		"topics": [
+			null
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Vaethanan"
+			],
+			"hebrew": [
+				"ואתחנן"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Vaethanan%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"דברים": "3:23-7:11"
+		},
+		"topics": [
+			"Moses' Introduction."
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Behaalotekha"
+			],
+			"hebrew": [
+				"בהעלותך"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Behaalotekha%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"במדבר": "8:1-12:16"
+		},
+		"topics": [
+			null
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Masei"
+			],
+			"hebrew": [
+				"מסעי"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Masei%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"במדבר": "33:1-36:13"
+		},
+		"topics": [
+			null
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Shemini"
+			],
+			"hebrew": [
+				"שמיני"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Shemini%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"ויקרא": "9:1-11:47"
+		},
+		"topics": [
+			null
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Vayelekh"
+			],
+			"hebrew": [
+				"וילך"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Vayelekh%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"דברים": "31:1-30"
+		},
+		"topics": [
+			null
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Qedoshim"
+			],
+			"hebrew": [
+				"קדשים"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Qedoshim%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"ויקרא": "19:1-20:27"
+		},
+		"topics": [
+			null
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Matot"
+			],
+			"hebrew": [
+				"מטות"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Matot%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"במדבר": "30:2-32:42"
+		},
+		"topics": [
+			null
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Pequdei"
+			],
+			"hebrew": [
+				"פקודי"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Pequdei%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"שמות": "38:21-40:38"
+		},
+		"topics": [
+			null
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Ki Tesse"
+			],
+			"hebrew": [
+				"כי תצא"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Ki%20Tesse%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"דברים": "21:10-25:19"
+		},
+		"topics": [
+			"Law Code."
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Ki Tabo"
+			],
+			"hebrew": [
+				"כי תבוא"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Ki%20Tabo%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"דברים": "26:1-29:8"
+		},
+		"topics": [
+			"Conclusion of Law Code. Covenant Ceremony (27:11-26)."
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Reeh"
+			],
+			"hebrew": [
+				"ראה"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Reeh%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"דברים": "11:26-16:17"
+		},
+		"topics": [
+			"Introduction to Law Code. Law Code (12:1-27:10)."
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"VeZot Haberakha"
+			],
+			"hebrew": [
+				"וזאת הברכה"
+			]
+		},
+		"recordings": {
+			"Abe Zami - VeZot HaBerakha": [
+				{
+					"url": "https://pizmonim.com/MP3/VeZot%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"דברים": "33:1-52"
+		},
+		"topics": [
+			"The Blessing of Moses."
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Haazinu"
+			],
+			"hebrew": [
+				"האזינו"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Haazinu%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"דברים": "32:1-52"
+		},
+		"topics": [
+			"The Song of Moses. Aliyot Stops: הזי''ו ל''ך."
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Balaq"
+			],
+			"hebrew": [
+				"בלק"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Balaq%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"במדבר": "22:2-25:9"
+		},
+		"topics": [
+			null
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Vayesheb"
+			],
+			"hebrew": [
+				"וישב"
+			]
+		},
+		"recordings": {
+			"M Kairey": [
+				{
+					"url": "https://pizmonim.com/MP3/3001%20Kairey2.mp3"
+				}
+			],
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Vayesheb%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"בראשית": "37:1-40:23"
+		},
+		"topics": [
+			"Leadership of The Next Generation: Joseph and Judah."
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Mesora"
+			],
+			"hebrew": [
+				"מצורע"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Mesora%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"ויקרא": "14:1-15:33"
+		},
+		"topics": [
+			null
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Pinehas"
+			],
+			"hebrew": [
+				"פינחס"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Pinehas%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"במדבר": "25:10-30:1"
+		},
+		"topics": [
+			null
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Behar"
+			],
+			"hebrew": [
+				"בהר"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Behar%20Full.mp3",
+					"part": "הכל"
+				}
+			],
+			"Eli Cabasso: BEHAR": [
+				{
+					"url": "https://pizmonim.com/MP3/ELI%20CABASSO%20BEHAR.mp3"
+				}
+			]
+		},
+		"sourceBook": {
+			"ויקרא": "25:1-26:2"
+		},
+		"topics": [
+			null
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Shelah"
+			],
+			"hebrew": [
+				"שלח"
+			]
+		},
+		"recordings": {
+			"Lekha - Eli Cabasso": [
+				{
+					"url": "https://pizmonim.com/MP3/Shelah%20Lekha.mp3"
+				}
+			],
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Shelah%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"במדבר": "13:1-15:41"
+		},
+		"topics": [
+			"The Spies."
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Behuqotai"
+			],
+			"hebrew": [
+				"בחוקתי"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Behuqotai%20Full.mp3",
+					"part": "הכל"
+				}
+			],
+			"Eli Cabasso: BEHUQOTAI": [
+				{
+					"url": "https://pizmonim.com/MP3/ELI%20CABASSO%20BEHUQOTAI.mp3"
+				}
+			]
+		},
+		"sourceBook": {
+			"ויקרא": "26:3-27:34"
+		},
+		"topics": [
+			null
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Vayigash"
+			],
+			"hebrew": [
+				"ויגש"
+			]
+		},
+		"recordings": {
+			"pizmonim.com": [
+				{
+					"url": "https://pizmonim.com/MP3/vayigash.mp3"
+				}
+			],
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Vayigash%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"בראשית": "44:18-47:27"
+		},
+		"topics": [
+			"Reunification of Israel."
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Eqeb"
+			],
+			"hebrew": [
+				"עקב"
+			]
+		},
+		"recordings": {
+			"Moshe Dabbah (Egyptian)": [
+				{
+					"url": "https://pizmonim.com/MP3/3001%20Dabbah.mp3"
+				}
+			],
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Eqeb%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"דברים": "7:12-11:25"
+		},
+		"topics": [
+			"Introduction to Law Code."
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Nissabim"
+			],
+			"hebrew": [
+				"נצבים"
+			]
+		},
+		"recordings": {
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Nissabim%20Full.mp3",
+					"part": "הכל"
+				}
+			],
+			"Eli Cabasso - (including Vayelekh)": [
+				{
+					"url": "https://pizmonim.com/MP3/eli%20cabasso%20nissabim%20vayelekh.mp3"
+				}
+			]
+		},
+		"sourceBook": {
+			"דברים": "29:9-28"
+		},
+		"topics": [
+			"Moses' conclusion."
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Shofetim"
+			],
+			"hebrew": [
+				"שפטים"
+			]
+		},
+		"recordings": {
+			"Amerique Ashear (1989)": [
+				{
+					"url": "https://pizmonim.com/MP3/3001%20Shofetim.mp3"
+				}
+			],
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Shofetim%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"דברים": "16:18-21:9"
+		},
+		"topics": [
+			"Law Code."
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Bereshit"
+			],
+			"hebrew": [
+				"בראשית"
+			]
+		},
+		"recordings": {
+			"Haim Daya - Genesis 1": [
+				{
+					"url": "https://pizmonim.com/MP3/Bereshit%201.mp3"
+				}
+			],
+			"Max E Tawil": [
+				{
+					"url": "https://pizmonim.com/MP3/Tawil%20Bereshit%20Full.mp3",
+					"part": "הכל"
+				}
+			],
+			"Abe Zami": [
+				{
+					"url": "https://pizmonim.com/MP3/Bereshit%20Full.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"בראשית": "1:1-6:8"
+		},
+		"topics": [
+			"From Adam until Noah."
+		],
+		"longDescriptions": {},
+		"makamTable": {}
+	}
+]

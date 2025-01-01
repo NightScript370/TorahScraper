@@ -1,0 +1,1168 @@
+[
+	{
+		"title": {
+			"english": [
+				"Chiamata del Hatan Bereshit"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Rav Haiim Della Rocca": [
+				{
+					"url": "http://www.torah.it/audio/parashot/hatanbereshit.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"בראשית": "1;1"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Chiamata del Hatan Bereshit completa"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Jonathan Pacifici": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/01%20hatanbereshit.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"בראשית": "1;1"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Bereshit"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Jonathan Pacifici": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/01_BereshitSecondaFine.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"בראשית": "2;4"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Noah"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Benny Di Veroli": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/02_noah.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"בראשית": "6;9"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Lech lechà"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Jonathan Pacifici": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/03_lechlecha.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"בראשית": "12;1"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Vaierà"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Jonathan Pacifici": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/04_vaiera.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"בראשית": "18;1"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Haiiè Sarà"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Jonathan Pacifici": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/05_HaiieSara.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"בראשית": "23;1"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Toledot"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Jonathan Pacifici": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/06_Toledot.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"בראשית": "25;19"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Vaiezè"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Jonathan Pacifici": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/07_Vaieze.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"בראשית": "28;10"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Vaishlach"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Jonathan Pacifici": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/08_Vaishlach.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"בראשית": "32;4"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Vaieshev"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Jonathan Pacifici": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/09_Vaieshev.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"בראשית": "37;1"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Mikez"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Sandro Di Castro": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/10_Mikez.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"בראשית": "41;1"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Vaigash"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Sandro Di Castro": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/11_Vaigash.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"בראשית": "44;18"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Vaichì"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Jonathan Pacifici": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/12_Vaichi.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"בראשית": "47;28"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Shemot"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"M Mario Sonnino": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/13_Shemot.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"שמות": "1;1"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Vaerà"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Jonathan Pacifici": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/14_Vaera.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"שמות": "6;2"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Bo"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Benny Di Veroli": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/15_Bo.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"שמות": "10;1"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Beshallach"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Jonathan Pacifici": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/16_beshallach.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"שמות": "13;17"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Itrò"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Mario Sonnino": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/17_itro.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"שמות": "18;1"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Mishpatim"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Jonathan Pacifici": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/18_Mishpatim.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"שמות": "21;1"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Terumà"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Benny Di Veroli": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/19_teruma.m4a",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"שמות": "25;1"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Tezavvè"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Benny Di Veroli": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/20_tezave.m4a",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"שמות": "27;20"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Vaiakel - Pekudè"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Sandro Di Castro": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/22_VaiakelPekude.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"שמות": "35;1"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Vaikrà"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Jonathan Pacifici": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/24_vaikra.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"ויקרא": "1;1"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Zav"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Jonathan Pacifici": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/25_Zav.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"ויקרא": "6;1"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Sheminì"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Rav Haiim Della Rocca": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/26_shemini.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"ויקרא": "9;1"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Tazria"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Sergio Amati": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/27_tazria.m4a",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"ויקרא": "12;1"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Mezorà"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Sergio Amati": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/27a_mezora.m4a",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"ויקרא": "14;1"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Acharè mot"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Gavriel Orvieto": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/28_Acharemot.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"ויקרא": "16;1"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Kedoshim"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Gavriel Orvieto": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/28b_Kedoshim.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"ויקרא": "19;1"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Emor"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Mario Sonnino": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/29_emor.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"ויקרא": "21;1"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Bear Sinai"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Jonathan Pacifici": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/30_BearSinai.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"ויקרא": "25;1"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Behukotai"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Jonathan Pacifici": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/30bBehukotai.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"ויקרא": "26;3"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Bemidbar"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Benny Di Veroli": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/31_Bemidbar.m4a",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"במדבר": "1;1"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Nasò"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Rav Haiim Della Rocca": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/32_naso.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"במדבר": "4;21"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Beaalotecha"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Jonathan Pacifici": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/33_Beaalotecha.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"במדבר": "8;1"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Shelach lechà"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Jonathan Pacifici": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/34_shelach.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"במדבר": "13;1"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Korach"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Sergio Amati": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/35_korach.m4a",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"במדבר": "16;1"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Hukat"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Jonathan Pacifici": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/36_Hukat.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"במדבר": "19;1"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Balak"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Jonathan Pacifici": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/37_balak.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"במדבר": "22;2"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Pinechas"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Jonathan Pacifici": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/38_Pinechas.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"במדבר": "25;10"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Mattot"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Sergio Amati": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/39_mattot.m4a",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"במדבר": "30;2"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Masè"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Sergio Amati": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/40_Mase.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"במדבר": "33;1"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Devarim"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Jonathan Pacifici": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/41_Devarim.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"דברים": "1;1"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Vaetchannan"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Jonathan Pacifici": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/42_Vaetchannan.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"דברים": "3;23"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Ekev"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Benny Di Veroli": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/43_Ekev.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"דברים": "7;12"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Reè"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Jonathan Pacifici": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/44_Ree.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"דברים": "11;26"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Shofetim"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Jonathan Pacifici": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/45_Shofetim.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"דברים": "16;18"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Ki Tezè"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Jonathan Pacifici": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/46_KiTeze.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"דברים": "21;10"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Nizzavim"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Jonathan Pacifici": [
+				{
+					"url": "http://www.archivio-torah.it/AUDIO/parashot/48_Nizzavim.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"דברים": "29;9"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Vaielech"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Jonathan Pacifici": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/49_Vaielech.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"דברים": "31;1"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Haazinu"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Jonathan Pacifici": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/50_haazinu.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"דברים": "32;1"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	},
+	{
+		"title": {
+			"english": [
+				"Vezot haberachà"
+			],
+			"hebrew": []
+		},
+		"recordings": {
+			"Mario Sonnino": [
+				{
+					"url": "http://www.archivio-torah.it/audio/parashot/51_vezot.mp3",
+					"part": "הכל"
+				}
+			]
+		},
+		"sourceBook": {
+			"דברים": "33;1"
+		},
+		"topics": [],
+		"longDescriptions": {},
+		"makamTable": {}
+	}
+]
