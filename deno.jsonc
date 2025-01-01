@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"lib": [
+			"dom",
+			"deno.ns",
+			"deno.unstable",
+			"esnext"
+		]
+	},
+	"imports": {
+		"@std/cli": "jsr:@std/cli@^1.0.9",
+		"jsdom": "npm:jsdom@^25.0.1"
+	}
+}
